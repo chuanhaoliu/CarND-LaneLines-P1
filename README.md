@@ -7,3 +7,4 @@ There are five files in this project, as the following list shows. Actually if y
 * HTML
 * WRITEUP.md
 * README.md
+* LICENSE
